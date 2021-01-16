@@ -22,3 +22,9 @@ Step:3 - Kudos! - Go to web browser or postman and write any of below URLs:
 
                     For example: http://127.0.0.1:5000/MySQL
                                  http://127.0.0.1:5000/PostgreSQL
+                                 
+Hosted on Heroku:
+
+Link: https://multipledatabasesflask.herokuapp.com/
+For Postgresql: https://multipledatabasesflask.herokuapp.com/PostgreSQL
+For Mysql: https://multipledatabasesflask.herokuapp.com/MySQL
