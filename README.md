@@ -14,7 +14,9 @@ Core Libraries:
 To run the project:
 
 Step:1 - Install requirements with command - $pip install -r requirement.txt
+
 Step:2 - Go to directory where multiple_databases.py and run command - $python multiple_databases.py
+
 Step:3 - Kudos! - Go to web browser or postman and write any of below URLs:
                     <localhost:<port-n0>/MySQL> or <<localhost:<port-n0>/PostgreSQL>>
 
